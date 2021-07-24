@@ -1,3 +1,21 @@
+# Tasks
+
+---
+
+> ~~Add tailwind the application.~~
+
+> ~~Create a mock of the app based on the requirements.~~
+
+> ~~Fetch the categories from the backend and show them on the frontend~~
+
+> Add ability to create question for each category
+
+> Add ability to create answer for each question
+
+> Make sure that the page is responsive 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
